@@ -68,8 +68,6 @@ Honest scoping for the mentor:
 - No human gold labels for the sample images — QWK tests use synthetic ratings.
 - No constrained decoding (`outlines` / `xgrammar`) — prompt-only structured output, which is exactly why format-validity is <100 % zero-shot.
 
-Each gap maps to a milestone in the [DMP proposal](../../proposals/01_TAP_VLM_Eval_Proposal.md)'s 12-week timeline.
-
 ## License
 
 MIT.
